@@ -10,6 +10,7 @@ using std::endl;
 using std::getline;
 using std::vector;
 
+// Part 1
 int main() {
     ifstream input("input.txt");
     vector<vector<int>> room;
